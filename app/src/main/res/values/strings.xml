@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">project</string>
+    <string name="menu">Menu</string>
+    <string name="log_out">Logout</string>
+    <string name="discussiontxt">Discussion</string>
+    <string name="descImg">TODO</string>
+    <string name="timesheettxt">Timesheet</string>
+    <string name="reporttxt">Report</string>
+    <string name="goRight"><![CDATA[>]]></string>
+    <string name="goRight2"><![CDATA[>]]></string>
+</resources>
